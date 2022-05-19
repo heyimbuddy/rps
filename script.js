@@ -56,6 +56,5 @@ for (i = 0; i <= rounds; i++) {
         break;
     } else {
         console.log(playRound());
-        console.log(i)
     }
 }
